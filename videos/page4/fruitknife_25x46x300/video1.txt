@@ -1,0 +1,2 @@
+action: cut
+prompt: Perform a cutting motion with the fruit knife.

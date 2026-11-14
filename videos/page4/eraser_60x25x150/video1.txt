@@ -1,0 +1,2 @@
+action: wipe
+prompt: Perform a wiping motion with the eraser.

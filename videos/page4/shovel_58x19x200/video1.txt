@@ -1,0 +1,2 @@
+action: shovel
+prompt: Perform a shoveling motion with the shovel.

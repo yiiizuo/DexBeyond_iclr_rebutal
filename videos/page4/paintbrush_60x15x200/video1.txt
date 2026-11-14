@@ -1,0 +1,2 @@
+action: brush
+prompt: Perform a brushing motion with the paintbrush.

@@ -1,0 +1,2 @@
+action: beat
+prompt: Perform a hammering motion with the hammer.
